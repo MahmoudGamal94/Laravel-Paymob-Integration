@@ -18,7 +18,7 @@ Demo integration with Paymob Payment Gateway.
      1- composer update
 - and to make sure autoload.php file is regenerated, run this command
     2- composer dump-autoload 
-- # Finaly run this command 
+- #### Finaly run this command 
     3- php artisan serve
 
 ### The project is now up and running! Access it through http://127.0.0.1:8000

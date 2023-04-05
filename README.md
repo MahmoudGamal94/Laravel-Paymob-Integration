@@ -8,6 +8,7 @@ Demo integration with Paymob Payment Gateway.
 -> composer version >= 2.4
 
 ## how to run
+- Download The project onto your machine.
 
 - install PHP version >=8.1 on you machine using Xampp or download it Manually:
     - https://www.apachefriends.org/download.html

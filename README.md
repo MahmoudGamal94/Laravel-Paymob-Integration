@@ -15,9 +15,9 @@ Demo integration with Paymob Payment Gateway.
 
 - install composer https://getcomposer.org/doc/00-intro.md
 - Go to project path and open CMD or GitBash and run this commands --
-    1- composer update
+   <br/> 1- composer update
 - and to make sure autoload.php file is regenerated, run this command --
-    2- composer dump-autoload 
+   <br/> 2- composer dump-autoload 
 - #### Finaly run this command 
     3- php artisan serve
 

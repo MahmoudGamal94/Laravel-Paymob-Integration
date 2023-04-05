@@ -1,7 +1,7 @@
 # Paymob Integration
 Demo integration with Paymob Payment Gateway.
 
--> This project runs with Laravel version 9.
+- This project runs with Laravel version 9.
 
 ## Requirement
 - php version >= 8.1

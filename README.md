@@ -1,5 +1,5 @@
-# Paymob Interation
-Test integration with Paymob Payment Gateway.
+# Paymob Integration
+Demo integration with Paymob Payment Gateway.
 
 -> This project runs with Laravel version 9.
 

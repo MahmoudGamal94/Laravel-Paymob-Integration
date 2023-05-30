@@ -27,4 +27,4 @@ Demo integration with Paymob Payment Gateway.
 #### As per Paymob Documentation, Use the following card test data to perform a test transaction
 <table><thead><tr><th style="text-align:left" colspan="2">MasterCard</th></tr></thead><tbody><tr><td style="text-align:left"><strong>Card Number</strong> </td><td style="text-align:left">5123456789012346</td></tr><tr><td style="text-align:left"><strong>Cardholder Name</strong> </td><td style="text-align:left">Test Account</td></tr><tr><td style="text-align:left"><strong>Expiry Month</strong> </td><td style="text-align:left">12</td></tr><tr><td style="text-align:left"><strong>Expiry Year</strong> </td><td style="text-align:left">25</td></tr><tr><td style="text-align:left"><strong>CVV</strong> </td><td style="text-align:left">123</td></tr></tbody></table>
 
-#### After performing a test transaction, Contact me to check it in my Transaction Dashboard.
+#### After performing a test transaction, check your paymob Transaction Dashboard.
